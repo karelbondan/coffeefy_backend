@@ -1,0 +1,1 @@
+web: gunicorn coffeefybackend.wsgi --log-file -
